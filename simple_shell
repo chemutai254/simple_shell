@@ -1,0 +1,17 @@
+#include "main.h"
+
+/**
+* print_name - prints my name
+*
+* Return: name
+*/
+
+void print_name(string name)
+{
+String name;
+name = "Nancy";
+
+_putchar(name);
+
+_putchar('\n');
+}
