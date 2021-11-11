@@ -1,0 +1,28 @@
+.\' Manpage forsimple_shell
+
+.TH man shell "11 November 2021" "1.0" "Simple_Shell Man Page"
+
+.SH NAmE
+simple_shell \- A Simple UNIX interpreter
+
+.SH SYNOPSYS
+simple_shell [scripts] [command_string | file]
+
+.SH DESCRIPTION
+Simple_shell is an interpreter for UNIX OS
+
+.SH OPTIONS
+Simple shell can be supplied with
+ls \- command that lists components of a directory
+ls [OPTION]... [FILE]...
+-a, --all
+do not ignore entries beginning with .
+
+-A --almost-all
+do not list implied . and ..
+
+--author
+with -l, print the author of each file
+
+.SH AUTHORS
+Nancy Chemutai (nancy.chemutai254@gmail.com)
